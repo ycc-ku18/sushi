@@ -1,0 +1,11 @@
+
+.form-control{
+	border:0;
+	border:1px solid #ccc;
+	border-radius: 0;
+}
+
+
+textarea{
+	resize: none;
+}
